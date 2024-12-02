@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshagrawal21" alt="arshagrawal21" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arshagrawal2108" target="blank"><img src="https://img.shields.io/twitter/follow/arshagrawal2108?logo=twitter&style=for-the-badge" alt="arshagrawal2108" /></a> </p>
-<img align="right" alt="coding" width="400"  src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif"/>
+<img align="right" alt="coding" width="400"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 📫 How to reach me **aaersha@gmail.com**
 
